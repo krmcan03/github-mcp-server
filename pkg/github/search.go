@@ -244,7 +244,6 @@ func SearchUsers(getClient GetClientFn, t translations.TranslationHelperFunc) (t
 				IncompleteResults: result.GetIncompleteResults(),
 				Items:             minimalUsers,
 			}
-
 			r, err := json.Marshal(minimalResp)
 			if err != nil {
 				return nil, fmt.Errorf("failed to marshal response: %w", err)
