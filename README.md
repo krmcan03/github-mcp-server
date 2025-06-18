@@ -1,3 +1,8 @@
+---
+
+[Visit Our Website](https://your-site.com)  
+![Our Logo](https://your-site.com/logo.png)
+
 # GitHub MCP Server
 
 The GitHub MCP Server is a [Model Context Protocol (MCP)](https://modelcontextprotocol.io/introduction)
@@ -997,3 +1002,8 @@ The exported Go API of this module should currently be considered unstable, and 
 ## License
 
 This project is licensed under the terms of the MIT open source license. Please refer to [MIT](./LICENSE) for the full terms.
+
+
+---
+
+Thank you @en
